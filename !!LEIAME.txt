@@ -1,0 +1,2 @@
+EN: Duke Ports Like Produke, put those files inside the subfolder \rts
+PT: Para duke ports como produke, ponha na subpasta \rts
