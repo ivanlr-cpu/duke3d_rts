@@ -1,2 +1,6 @@
-EN: Duke Ports Like Produke, put those files inside the subfolder \rts
-PT: Para duke ports como produke, ponha na subpasta \rts
+EN: In duke3d Ports Like Produke, put those files inside the subfolder \rts
+Most are in Portuguese, some in English language.
+
+PT: Para ports/modificações duke3d como produke, ponha na subpasta \rts
+São RTS capturadas desde 1996. Adição de mais de 80 RTS únicas, feitas por contribuidores.
+
